@@ -2,7 +2,7 @@ package Nilai;
 
 import java.util.Scanner;
 
-public class java2 {
+public class TugasNilai {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
